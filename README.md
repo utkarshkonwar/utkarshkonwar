@@ -9,7 +9,7 @@
 
 <h3 align="center">I started out with Web-Dev 3 years ago, and am learning App-Dev now</h3>
 
-<img align="right" alt="Coding" width="200" src="pixel-jeff-matrix-s.gif">
+<img align="right" alt="Coding" width="300" src="pixel-jeff-matrix-s.gif">
 
 <p align="left"> <a href="https://twitter.com/uttusaurus" target="blank"><img src="https://img.shields.io/twitter/follow/uttusaurus?logo=twitter&style=for-the-badge" alt="uttusaurus" /></a> </p>
 
