@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I'm all over the place when it comes to my projects.**
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
