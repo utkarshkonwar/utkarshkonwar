@@ -36,6 +36,8 @@
 
 ### Blogs posts
 <!-- Blog-LIST:START -->
+- [How I Juggled Between College and Work](https://dev.to/utkarshk/how-i-juggled-between-college-and-work-23hm)
+- [Material You NewTab Extension- A Fresh Look for Your Browser](https://dev.to/utkarshk/material-you-newtab-extension-a-fresh-look-for-your-browser-21h2)
 <!-- Blog-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
