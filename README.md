@@ -9,7 +9,7 @@
 
 <h3 align="center">I started out with Web-Dev 3 years ago, and am learning App-Dev now</h3>
 
-<img align="right" alt="Coding" width="400" src="pixel-jeff-matrix-s.gif">
+<img align="right" alt="Coding" width="200" src="pixel-jeff-matrix-s.gif">
 
 <p align="left"> <a href="https://twitter.com/uttusaurus" target="blank"><img src="https://img.shields.io/twitter/follow/uttusaurus?logo=twitter&style=for-the-badge" alt="uttusaurus" /></a> </p>
 
@@ -51,9 +51,9 @@
 
 ![snake gif](https://github.com/utkarshkonwar/utkarshkonwar/blob/output/github-snake-dark.svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkonwar&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="utkarshkonwar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkonwar&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="utkarshkonwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkonwar&theme=dark" alt="utkarshkonwar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkonwar&theme=dark" alt="utkarshkonwar" /></p>
 
 
 
