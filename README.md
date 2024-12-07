@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">I started out with Web-Dev 3 years ago, and am learning App-Dev now</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshkonwar" alt="utkarshkonwar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/uttusaurus" target="blank"><img src="https://img.shields.io/twitter/follow/uttusaurus?logo=twitter&style=for-the-badge" alt="uttusaurus" /></a> </p>
 
 - 🔭 I’m currently working on **a stealth project of mine, stay tuned!**
