@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">I started out with Web-Dev 3 years ago, and am learning App-Dev now</h3>
+<h3 align="center">I Started Out With Web-Dev 3 Years Ago, And Learning App-Dev Now</h3>
 
 <img align="right" alt="Coding" width="300"  borderradius="2px" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **a stealth project of mine, stay tuned!**
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Dart and Flutter** and building **Tons of Extensions**
 
 - 👯 I’m looking to collaborate on **Web-based projects, though apps sound nice too**
 
