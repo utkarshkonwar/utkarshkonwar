@@ -53,6 +53,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkonwar&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="utkarshkonwar" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkonwar&theme=dark" alt="utkarshkonwar" /></p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Utkarsh%20Konwar&theme=black-ice&border_radius=5)](https://git.io/streak-stats)
 
 
