@@ -53,5 +53,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkonwar&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="utkarshkonwar" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkonwar&theme=dark" alt="utkarshkonwar" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=utkarshkonwar&theme=dark)](https://git.io/streak-stats)
 
