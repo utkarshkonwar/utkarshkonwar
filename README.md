@@ -33,11 +33,11 @@
 
 ### Blogs posts
 <!-- Blog-LIST:START -->
+- [My Journey as a React Developer Intern at The Entrepreneurship Network](https://dev.to/utkarshk/my-journey-as-a-react-developer-intern-at-the-entrepreneurship-network-14bc)
 - [My Journey as a Technical Writer at UpGrad](https://dev.to/utkarshk/my-journey-as-a-technical-writer-at-upgrad-214n)
 - [My IT Internship at Aditya Birla Fashion and Retail Ltd.](https://dev.to/utkarshk/my-it-internship-at-aditya-birla-fashion-and-retail-ltd-a4)
 - [A Month at IIT Guwahati: Crafting the &#39;Wave&#39; Hand-Sign Recognition System](https://dev.to/utkarshk/a-month-at-iit-guwahati-crafting-the-wave-hand-sign-recognition-system-3gk7)
 - [How I Juggled Between College and Work](https://dev.to/utkarshk/how-i-juggled-between-college-and-work-23hm)
-- [Material You NewTab Extension- A Fresh Look for Your Browser](https://dev.to/utkarshk/material-you-newtab-extension-a-fresh-look-for-your-browser-21h2)
 <!-- Blog-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
